@@ -1,0 +1,18 @@
+# 登录态 profile —— 含抖音 Cookie，绝对不能提交
+.chrome-profile/
+
+# 下载产物
+downloads/
+*.mp4
+*.jpg
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 登录二维码（含一次性登录票据）
+login_qr.png
+
+# 系统杂项
+.DS_Store
